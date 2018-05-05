@@ -5,7 +5,7 @@ Indroduce
 ----------
 
 For example, in China there are five famous fonts which are clerical script,standard script,semi-cursive,cursive script and seal script.
-
+<div align=center><img src="https://github.com/MingtaoGuo/Simple-CNN-for-Chinese-character-classification/raw/master/fonts/fivefont.jpg"/></div>
 ![fivefonts](https://github.com/MingtaoGuo/Simple-CNN-for-Chinese-character-classification/raw/master/fonts/fivefont.jpg)
 
 There are four famous font of standard script that is ou yan liu zhao.
