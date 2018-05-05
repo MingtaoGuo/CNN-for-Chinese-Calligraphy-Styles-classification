@@ -9,7 +9,7 @@ For example, in China there are five famous fonts which are clerical script,stan
 
 There are four famous font of standard script that is ou yan liu zhao.
 
-<div align=center><img src="https://github.com/MingtaoGuo/Simple-CNN-for-Chinese-character-classification/raw/master/fonts/fivefonts.jpg"/></div><div align=center><img src="https://github.com/MingtaoGuo/Simple-CNN-for-Chinese-character-classification/raw/master/fonts/ouyanliuzhao.jpg"/></div>
+<div align=left><img src="https://github.com/MingtaoGuo/Simple-CNN-for-Chinese-character-classification/raw/master/fonts/fivefonts.jpg"/></div><div align=right><img src="https://github.com/MingtaoGuo/Simple-CNN-for-Chinese-character-classification/raw/master/fonts/ouyanliuzhao.jpg"/></div>
 
 Method
 --------
