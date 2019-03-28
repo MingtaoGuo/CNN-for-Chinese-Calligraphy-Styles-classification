@@ -45,7 +45,7 @@ from tensorflow.python.ops import array_ops
 from tensorflow.python.ops import init_ops
 from tensorflow.python.ops import nn_ops
 from tensorflow.python.ops import variable_scope
-from vggnet import *
+from ops import *
 
 trunc_normal = lambda stddev: init_ops.truncated_normal_initializer(0.0, stddev)
 
