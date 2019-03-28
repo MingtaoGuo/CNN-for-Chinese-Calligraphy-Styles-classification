@@ -1,4 +1,4 @@
-from vggnet import *
+from ops import *
 from other_networks.resnet_v1 import resnet_v1_18
 from other_networks.alexnet_v2 import alexnet_v2
 from other_networks.vgg16 import vgg_16
