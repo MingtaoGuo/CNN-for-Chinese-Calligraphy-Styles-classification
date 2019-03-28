@@ -67,7 +67,7 @@ from tensorflow.contrib.slim.python.slim.nets import resnet_utils
 from tensorflow.python.ops import math_ops
 from tensorflow.python.ops import nn_ops
 from tensorflow.python.ops import variable_scope
-from vggnet import *
+from ops import *
 
 resnet_arg_scope = resnet_utils.resnet_arg_scope
 
