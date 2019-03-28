@@ -51,7 +51,7 @@ from tensorflow.python.ops import array_ops
 from tensorflow.python.ops import init_ops
 from tensorflow.python.ops import nn_ops
 from tensorflow.python.ops import variable_scope
-from vggnet import *
+from ops import *
 
 def vgg_arg_scope(weight_decay=0.0005):
   """Defines the VGG arg scope.
