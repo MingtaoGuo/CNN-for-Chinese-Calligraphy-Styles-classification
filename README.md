@@ -1,5 +1,7 @@
-# Simple-CNN-for-Chinese-character-classification
+# CNN-for-Chinese-Calligraphy-Styles-classification
 This code mainly solves the problem of style classification of Chinese calligraphy.
+
+The paper has published: https://rdcu.be/bxS19
 
 Introduce
 ----------
