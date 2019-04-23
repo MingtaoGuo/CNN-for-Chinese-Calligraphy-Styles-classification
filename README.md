@@ -1,7 +1,7 @@
 # CNN-for-Chinese-Calligraphy-Styles-classification
 This code mainly solves the problem of style classification of Chinese calligraphy.
 
-The paper has published: https://rdcu.be/bxS19
+The paper has published: [A novel CNN structure for fine-grained classification of Chinesecalligraphy styles](https://rdcu.be/bxS19)
 
 Introduce
 ----------
